@@ -21,7 +21,7 @@
     <li>善用文宣創作及色彩表現，使消費者對該廣告產生認同，以達成推銷商品或意念的目的</li>
     <li>使用 BootStrap 框架開發、Jquery 做動畫效果，製作公司網站並上線</li>
     <li>製作政府網站- 農林航空所 https://image.afasi.gov.tw/</li>
-    <li>獨立製作北極星公司網站- https://image.afasi.gov.tw/</li>
+    <li>獨立製作北極星公司網站- http://www.rs-survey.com/</li>
    </ul>
 <h4>夢田原色股份有限公司(103/11更名為閱樂股份有限公司)企劃主任 2013 09 ~ 2015 04</h4>
    <ul>
