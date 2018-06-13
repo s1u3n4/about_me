@@ -70,7 +70,7 @@
   </ul>
 <h3>作品網站</h3>
   <ul>
-    <li>網頁作品網站 - <a href="https://portfolio.7netic.com/ target=" blank">https://portfolio.7netic.com/</a></li>
+    <li>網頁作品網站 - <a href="https://portfolio.7netic.com/" target=" blank">https://portfolio.7netic.com/</a></li>
     <li>作品集網址 - <a href="https://www.behance.net/gallery/60912695/Portfolio_2018" target=" blank">https://www.behance.net/gallery/60912695/Portfolio_2018</a></li>
     <li>個人介紹網頁(使用 BootStrap 框架開發、Jquery 做動畫效果) - <a href="https://s1u3n4.github.io/resume/" target=" blank">https://s1u3n4.github.io/resume/</a></li>
     <li>個人插畫網頁(使用 BootStrap 框架開發、Jquery 做動畫效果) - <a href="https://7netic.com"  target=" blank">https://7netic.com</a></li>
