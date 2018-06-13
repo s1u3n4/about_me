@@ -12,7 +12,7 @@
     <li>設計提案、形象網站首頁設計規劃</li>
     <li>發想網頁風格，並獨立完成網站視覺稿，再透過切版轉換成網頁型態</li>
     <li>規劃製作App設計流程，並用Sketch製作mockup</li>
-    <li>樂於與後端工程師溝通合作</ul>
+    <li>樂於與後端工程師溝通合作</li>
     <li>獨立製作極簡公司網站- https://www.ximple.com.tw/</li>
    </ul>
 <h4>北極星測繪科技(Graphic & UI Designer) - 2015 06 ~ 2017 07</h4>
@@ -70,9 +70,10 @@
   </ul>
 <h3>作品網站</h3>
   <ul>
-    <li>作品集網址 - <a href="https://www.behance.net/gallery/60912695/Portfolio_2018">https://www.behance.net/gallery/60912695/Portfolio_2018</a></li>
-    <li>個人介紹網頁(使用 BootStrap 框架開發、Jquery 做動畫效果) - <a href="https://s1u3n4.github.io/resume/">https://s1u3n4.github.io/resume/</a></li>
-    <li>個人插畫網頁(使用 BootStrap 框架開發、Jquery 做動畫效果) - <a href="https://7netic.com">https://7netic.com</a></li>
+    <li>網頁作品網站 - <a href="https://portfolio.7netic.com/ target=" blank">https://portfolio.7netic.com/</a></li>
+    <li>作品集網址 - <a href="https://www.behance.net/gallery/60912695/Portfolio_2018" target=" blank">https://www.behance.net/gallery/60912695/Portfolio_2018</a></li>
+    <li>個人介紹網頁(使用 BootStrap 框架開發、Jquery 做動畫效果) - <a href="https://s1u3n4.github.io/resume/" target=" blank">https://s1u3n4.github.io/resume/</a></li>
+    <li>個人插畫網頁(使用 BootStrap 框架開發、Jquery 做動畫效果) - <a href="https://7netic.com"  target=" blank">https://7netic.com</a></li>
   </ul>
 <h3>自我介紹</h3>
   <ul>
