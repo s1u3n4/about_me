@@ -1,4 +1,4 @@
-<h1>陳Eden</h1>
+<h1>Hello! 我是Eden Chen</h1>
   <ul>
     <li>Birthday : July/06/1985</li>
     <li>Education : 銘傳大學 - 財務金融系</li>
@@ -68,14 +68,14 @@
       <li>會使用Google Analytics追蹤碼分析網頁並建立報表</li>
       <li>將取得Google Analytics (GA)線上版證書</li>
   </ul>
-<h3>作品網站</h3>
+<h2>作品網站</h2>
   <ul>
     <li>網頁作品網站 - <a href="https://portfolio.7netic.com/" target=" blank">https://portfolio.7netic.com/</a></li>
     <li>作品集網址 - <a href="https://www.behance.net/gallery/60912695/Portfolio_2018" target=" blank">https://www.behance.net/gallery/60912695/Portfolio_2018</a></li>
     <li>個人介紹網頁(使用 BootStrap 框架開發、Jquery 做動畫效果) - <a href="https://s1u3n4.github.io/resume/" target=" blank">https://s1u3n4.github.io/resume/</a></li>
     <li>個人插畫網頁(使用 BootStrap 框架開發、Jquery 做動畫效果) - <a href="https://7netic.com"  target=" blank">https://7netic.com</a></li>
   </ul>
-<h3>自我介紹</h3>
+<h2>自我介紹</h2>
   <ul>
     <li>偶然從平面設計接觸到前端，起初為製作公司網頁，在製作過程中體會到其中的樂趣並積極學習進修</li>
     <li>喜歡嘗試新技術，了解網頁技術的快速變化，期許激勵自我不斷進步</li>
