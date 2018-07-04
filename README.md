@@ -37,7 +37,8 @@
     <li>瞭解 HTML 語意</li>
     <li>能夠使用 CSS 做出網頁排版與 RWD 響應式設計</li>
     <li>瞭解 CSS3 的 Animate、transform 跟 transition</li>
-    <li>使用 SASS 規劃 Web layout 架構</li>
+    <li>能夠使用 Chrome 網頁除錯</li>
+    <li>正學習利用 SASS 規劃 Web layout 架構</li>
   </ul>
 <h3>Javascript/Framework</h3>
   <ul>
@@ -59,14 +60,14 @@
   </ul>
 <h3>3D技術</h3>
   <ul>
-      <li>擁有3Ds Max建模證照</li>
-      <li>會使用3Ds Max和SketchUp建出模型(室內設計與3D渲染)</li>
-      <li>AutoCAD國際認證</li>
+      <li>擁有 3Ds Max 建模證照</li>
+      <li>會使用 3Ds Max 和 SketchUp 建出模型(室內設計與3D渲染)</li>
+      <li>AutoCAD 國際認證</li>
   </ul>
 <h3>數據分析</h3>
   <ul>
-      <li>會使用Google Analytics追蹤碼分析網頁並建立報表</li>
-      <li>將取得Google Analytics (GA)線上版證書</li>
+      <li>會使用 Google Analytics 追蹤碼分析網頁並建立報表</li>
+      <li>將取得 Google Analytics (GA)線上版證書</li>
   </ul>
 <h2>作品網站</h2>
   <ul>
