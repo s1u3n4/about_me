@@ -2,7 +2,7 @@
   <ul>
     <li>Birthday : July/06/1985</li>
     <li>Education : 銘傳大學 - 財務金融系</li>
-    <li>Personal Website : https://github.com/s1u3n4</li>
+    <li>Personal Website : https://github.com/s1u3n4/about_me</li>
     <li>E-Mail : s1u3n4@gmail.com</li>
     <li>Mobile : 0963-450-706</li>
    </ul>
@@ -11,7 +11,7 @@
    <ul>
     <li>設計提案、形象網站首頁設計規劃</li>
     <li>發想網頁風格，並獨立完成網站視覺稿，再透過切版轉換成網頁型態</li>
-    <li>規劃製作App設計流程，並用Sketch製作mockup</li>
+    <li>規劃製作App設計流程，並用 Sketch 製作 Mockup</li>
     <li>樂於與後端工程師溝通合作</li>
     <li>獨立製作極簡公司網站- https://www.ximple.com.tw/</li>
    </ul>
@@ -71,8 +71,8 @@
   </ul>
 <h2>作品網站</h2>
   <ul>
-    <li>網頁作品網站 - <a href="https://portfolio.7netic.com/" target=" blank">https://portfolio.7netic.com/</a></li>
-    <li>作品集網址 - <a href="https://www.behance.net/gallery/60912695/Portfolio_2018" target=" blank">https://www.behance.net/gallery/60912695/Portfolio_2018</a></li>
+    <li>網頁作品網站 - <a href="https://portfolio.7netic.com/" target=" blank">https://comma-design.net/</a></li>
+    <li>作品集網址 - <a href="https://www.behance.net/gallery/60912695/Portfolio_2019" target=" blank">https://www.behance.net/gallery/60912695/Portfolio_2019</a></li>
     <li>個人介紹網頁(使用 BootStrap 框架開發、Jquery 做動畫效果) - <a href="https://s1u3n4.github.io/resume/" target=" blank">https://s1u3n4.github.io/resume/</a></li>
     <li>個人插畫網頁(使用 BootStrap 框架開發、Jquery 做動畫效果) - <a href="https://7netic.com"  target=" blank">https://7netic.com</a></li>
   </ul>
