@@ -13,6 +13,7 @@
     <li>規劃製作App設計流程，並用 Sketch 製作 Mockup</li>
     <li>樂於與後端工程師溝通合作</li>
     <li>獨立製作極簡公司網站 - <a href="https://portfolio1.7netic.com/" target=" blank">https://portfolio1.7netic.com/</a></li>
+    <li>規劃製作集會遊行申請網站 User Interface & Prototype - http://assembly.gov.taipei/PolicePeople/</li>
    </ul>
 <h4>北極星測繪科技(Graphic & UI Designer) - 2015 06 ~ 2017 07</h4>
    <ul>
