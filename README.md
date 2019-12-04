@@ -1,7 +1,6 @@
 <h1>Hello! 我是Eden Chen</h1>
   <ul>
     <li>Birthday : July/06/1985</li>
-    <li>Education : 銘傳大學 - 財務金融系</li>
     <li>Personal Website : https://github.com/s1u3n4/about_me</li>
     <li>E-Mail : s1u3n4@gmail.com</li>
     <li>Mobile : 0963-450-706</li>
@@ -13,15 +12,15 @@
     <li>發想網頁風格，並獨立完成網站視覺稿，再透過切版轉換成網頁型態</li>
     <li>規劃製作App設計流程，並用 Sketch 製作 Mockup</li>
     <li>樂於與後端工程師溝通合作</li>
-    <li>獨立製作極簡公司網站- https://www.ximple.com.tw/</li>
+    <li>獨立製作極簡公司網站 - <a href="https://portfolio1.7netic.com/" target=" blank">https://portfolio1.7netic.com/</a></li>
    </ul>
 <h4>北極星測繪科技(Graphic & UI Designer) - 2015 06 ~ 2017 07</h4>
    <ul>
     <li>從事公司海報、宣傳冊的封面及版面之規畫設計與美術加工</li>
     <li>善用文宣創作及色彩表現，使消費者對該廣告產生認同，以達成推銷商品或意念的目的</li>
     <li>使用 BootStrap 框架開發、Jquery 做動畫效果，製作公司網站並上線</li>
-    <li>製作政府網站- 農林航空所 https://image.afasi.gov.tw/</li>
-    <li>獨立製作北極星公司網站- http://www.rs-survey.com/</li>
+    <li>製作政府網站- 農林航空所 - <a href="https://image.afasi.gov.tw/" target=" blank">https://image.afasi.gov.tw/</a></li>
+    <li>獨立製作北極星公司網站 - <a href="http://www.rs-survey.com/" target=" blank">http://www.rs-survey.com/</a></li>
    </ul>
 <h4>夢田原色股份有限公司(103/11更名為閱樂股份有限公司)企劃主任 2013 09 ~ 2015 04</h4>
    <ul>
@@ -38,7 +37,6 @@
     <li>能夠使用 CSS 做出網頁排版與 RWD 響應式設計</li>
     <li>瞭解 CSS3 的 Animate、transform 跟 transition</li>
     <li>能夠使用 Chrome 網頁除錯</li>
-    <li>正學習利用 SASS 規劃 Web layout 架構</li>
   </ul>
 <h3>Javascript/Framework</h3>
   <ul>
@@ -71,10 +69,11 @@
   </ul>
 <h2>作品網站</h2>
   <ul>
-    <li>網頁作品網站 - <a href="https://portfolio.7netic.com/" target=" blank">https://comma-design.net/</a></li>
-    <li>作品集網址 - <a href="https://www.behance.net/gallery/60912695/Portfolio_2019" target=" blank">https://www.behance.net/gallery/60912695/Portfolio_2019</a></li>
-    <li>個人介紹網頁(使用 BootStrap 框架開發、Jquery 做動畫效果) - <a href="https://s1u3n4.github.io/resume/" target=" blank">https://s1u3n4.github.io/resume/</a></li>
-    <li>個人插畫網頁(使用 BootStrap 框架開發、Jquery 做動畫效果) - <a href="https://7netic.com"  target=" blank">https://7netic.com</a></li>
+    <li>網頁作品網站 - <a href="https://comma-design.net/" target=" blank">https://comma-design.net/</a></li>
+    <li>作品集網址 - <a href="https://www.behance.net/gallery/83645163/2019-7netic-Portfolio" target=" blank">https://www.behance.net/gallery/83645163/2019-7netic-Portfolio</a></li>
+    <li>個人介紹網頁 - <a href="https://github.com/s1u3n4/about_me" target=" blank">https://github.com/s1u3n4/about_me</a></li>
+    <li>個人插畫網頁(使用 BootStrap 框架開發、Jquery 做動畫效果、PHP 製作表單) - <a href="https://7netic.com"  target=" blank">https://7netic.com</a></li>
+  <li>Dribbble連結 - <a href="https://dribbble.com/7netic" target=" blank">https://dribbble.com/7netic/</a></li>
   </ul>
 <h2>自我介紹</h2>
   <ul>
