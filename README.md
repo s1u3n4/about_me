@@ -1,18 +1,25 @@
 <h1>Hello! 我是Eden Chen</h1>
+<h1>I'm a Web Designer.</h1>
   <ul>
-    <li>Birthday : July/06/1985</li>
-    <li>Personal Website : https://github.com/s1u3n4/about_me</li>
+    <li>個人履歷網站- <a href="https://eden.7netic.com" target="_blank">https://eden.7netic.com</a></li>
     <li>E-Mail : s1u3n4@gmail.com</li>
-    <li>Mobile : 0963-450-706</li>
    </ul>
 <h2>工作經驗</h2>
-<h4>極簡科技(UI & UX Designer) - 2017 08~ now</h4>
+<h4>昇恆昌股份有限公司(Web Designer) - 2020 09~ now </h4>
+   <ul>
+    <li>設計提案、形象網站設計規劃</li>
+    <li>發想網頁風格，並獨立完成網站視覺稿，再透過切版轉換成網頁型態</li>
+    <li>規劃製作活動頁設計流程，並用 Adobe XD 製作 Mockup</li>
+    <li>規劃製作活動頁網站 - <a href="https://www.everrichtohome.com/event/2020-Double-12-Promotion" target=" blank">昇恆昌免稅購物網 - 雙12活動頁</a></li>
+    <li>製作活動頁網站 - <a href="https://www.everrichtohome.com/event/2021-618-promotion" target=" blank">昇恆昌免稅購物網 - 618活動頁</a></li>
+   </ul>
+<h4>極簡科技(UI & UX Designer) - 2017 08~ 2020 03 </h4>
    <ul>
     <li>設計提案、形象網站首頁設計規劃</li>
     <li>發想網頁風格，並獨立完成網站視覺稿，再透過切版轉換成網頁型態</li>
     <li>規劃製作App設計流程，並用 Sketch 製作 Mockup</li>
     <li>樂於與後端工程師溝通合作</li>
-    <li>獨立製作極簡公司網站 - <a href="https://portfolio1.7netic.com/" target=" blank">https://portfolio1.7netic.com/</a></li>
+    <li>獨立製作極簡公司網站 - <a href="https://www.ximple.com.tw/" target=" blank">https://www.ximple.com.tw/</a></li>
     <li>規劃製作集會遊行申請網站 User Interface & Prototype - http://assembly.gov.taipei/PolicePeople/</li>
    </ul>
 <h4>北極星測繪科技(Graphic & UI Designer) - 2015 06 ~ 2017 07</h4>
@@ -65,19 +72,19 @@
   </ul>
 <h3>數據分析</h3>
   <ul>
+      <li> Google Analytics (GAIQ)證書</li>
       <li>會使用 Google Analytics 追蹤碼分析網頁並建立報表</li>
-      <li>將取得 Google Analytics (GA)線上版證書</li>
   </ul>
 <h2>作品網站</h2>
   <ul>
-    <li>網頁作品網站 - <a href="https://comma-design.net/" target=" blank">https://comma-design.net/</a></li>
-    <li>作品集網址 - <a href="https://www.behance.net/gallery/83645163/2019-7netic-Portfolio" target=" blank">https://www.behance.net/gallery/83645163/2019-7netic-Portfolio</a></li>
-    <li>個人介紹網頁 - <a href="https://github.com/s1u3n4/about_me" target=" blank">https://github.com/s1u3n4/about_me</a></li>
+    <li>網頁作品網站 - <a href="https://commadesign.studio/" target=" blank">https://commadesign.studio/</a></li>
+    <li>作品集網址 - <a href="https://www.behance.net/gallery/120655977/-Project" target=" blank">https://www.behance.net/gallery/120655977/-Project</a></li>
+    <li>個人介紹網頁 - <a href="https://eden.7netic.com" target=" blank">https://eden.7netic.com</a></li>
     <li>個人插畫網頁(使用 BootStrap 框架開發、Jquery 做動畫效果、PHP 製作表單) - <a href="https://7netic.com"  target=" blank">https://7netic.com</a></li>
   <li>Dribbble連結 - <a href="https://dribbble.com/7netic" target=" blank">https://dribbble.com/7netic/</a></li>
   </ul>
 <h2>自我介紹</h2>
   <ul>
-    <li>偶然從平面設計接觸到前端，起初為製作公司網頁，在製作過程中體會到其中的樂趣並積極學習進修</li>
+    <li>2017年從平面設計接觸到前端，起初為製作公司網頁，在製作過程中體會到其中的樂趣並積極學習進修</li>
     <li>喜歡嘗試新技術，了解網頁技術的快速變化，期許激勵自我不斷進步</li>
   </ul>
